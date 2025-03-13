@@ -5,9 +5,11 @@ import 'package:e_election/app/constants.dart';
 import 'package:e_election/app/di/injector.dart';
 import 'package:e_election/app/http_orverride.dart';
 import 'package:e_election/app/language/language_manager.dart';
+import 'package:e_election/app_error.dart';
 import 'package:e_election/app_view.dart';
 import 'package:e_election/generated/codegen_loader.g.dart';
 import 'package:easy_localization/easy_localization.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -28,6 +30,9 @@ main() async {
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,
   ]);
+
+  ErrorWidget.builder = (_) => const AppError();
+  if (kReleaseMode) ErrorWidget.builder = (_) => const AppError();
 
   try {
     runApp(EasyLocalization(
