@@ -1,0 +1,65 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const app_name = 'app_name';
+  static const version = 'version';
+  static const language = 'language';
+  static const skip = 'skip';
+  static const next = 'next';
+  static const welcome = 'welcome';
+  static const description = 'description';
+  static const error_title = 'error_title';
+  static const error_message = 'error_message';
+  static const error_no_connection = 'error_no_connection';
+  static const error_bad_request = 'error_bad_request';
+  static const error_connection = 'error_connection';
+  static const error_invalid_code = 'error_invalid_code';
+  static const all_elected = 'all_elected';
+  static const see_all = 'see_all';
+  static const welcome_back = 'welcome_back';
+  static const sudan_elections = 'sudan_elections';
+  static const days_remaining = 'days_remaining';
+  static const vote_now = 'vote_now';
+  static const no_candidates = 'no_candidates';
+  static const get_started = 'get_started';
+  static const follow_up = 'follow_up';
+  static const use_nfc_button = 'use_nfc_button';
+  static const scan_passport = 'scan_passport';
+  static const scan_passport_description = 'scan_passport_description';
+  static const scan_passport_title = 'scan_passport_title';
+  static const scan_passport_button = 'scan_passport_button';
+  static const scan_passport_error = 'scan_passport_error';
+  static const scan_passport_error_description = 'scan_passport_error_description';
+  static const scan_passport_error_title = 'scan_passport_error_title';
+  static const scan_passport_error_button = 'scan_passport_error_button';
+  static const enter_national_id = 'enter_national_id';
+  static const verification_code_subtitle = 'verification_code_subtitle';
+  static const verification_code_title = 'verification_code_title';
+  static const verification_code_button = 'verification_code_button';
+  static const verification_code_error = 'verification_code_error';
+  static const verification_code_error_description = 'verification_code_error_description';
+  static const verification_code_error_title = 'verification_code_error_title';
+  static const verification_code_error_button = 'verification_code_error_button';
+  static const verification_code_success = 'verification_code_success';
+  static const verification_code_success_description = 'verification_code_success_description';
+  static const verification_code_success_title = 'verification_code_success_title';
+  static const verification_code_success_button = 'verification_code_success_button';
+  static const verification_code_didnt_receive_code = 'verification_code_didnt_receive_code';
+  static const verification_code_send_again = 'verification_code_send_again';
+  static const try_again = 'try_again';
+  static const candidate_details = 'candidate_details';
+  static const social_links = 'social_links';
+  static const vote_for = 'vote_for';
+  static const election_year = 'election_year';
+  static const start_date = 'start_date';
+  static const end_date = 'end_date';
+  static const share_candidate = 'share_candidate';
+  static const share_candidate_description = 'share_candidate_description';
+  static const biography = 'biography';
+  static const biography_description = 'biography_description';
+  static const candidate_info = 'candidate_info';
+  static const vote_success = 'vote_success';
+  static const vote_success_description = 'vote_success_description';
+  static const close = 'close';
+
+}

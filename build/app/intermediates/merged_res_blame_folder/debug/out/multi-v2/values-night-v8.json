@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.e_election.app-mergeDebugResources-44:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/musabeltijani/Desktop/e_election/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,1094"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,513"
+                    }
+                },
+                {
+                    "source": "/Users/musabeltijani/.gradle/caches/transforms-3/3a04377ab98aaf9189ccddcb951bae89/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "518,588,672,756,852,954,1056,1150",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "583,667,751,847,949,1051,1145,1234"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Sat Mar 08 13:27:02 AST 2025
+base.0=/Users/musabeltijani/Desktop/e_election/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
